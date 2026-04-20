@@ -199,6 +199,7 @@ def minimax(board, depth, alpha, beta, maximizingPlayer):
             alpha = max(alpha, value)
             if alpha >= beta: break
         return column, value
+    
     else:
         value = np.inf
         column = random.choice(valid_locations)
