@@ -62,10 +62,10 @@ The AI evaluates board states based on:
 ## 📂 Project Structure
 
 ```
-├── main.py
-├── ai_agent.py
-├── board.py
-├── utils.py
+├── naive_version.py
+├── pro_version.py
+├── lose.wav
+├── win.wav
 └── README.md
 ```
 
@@ -94,15 +94,15 @@ pip install pygame
 4. Run the game:
 
 ```
-python main.py
+python pro_version.py
 ```
 
 ---
 
 ## 👥 Contributors
 
-* **Alia Harb** – Backend Developer & AI Design
-* **Shahd Ayman** – Logic & Documentation
+* **Alia Harb** – GUI Design & Documentation
+* **Shahd Ayman** – Logic & AI Design
 
 ---
 
