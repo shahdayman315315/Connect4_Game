@@ -40,7 +40,6 @@ class Connect4Logic:
         self.board[row][col] = piece
 
     def winning_move(self, piece):
-        # نفس اللوجيك بتاعك للفحص في كل الاتجاهات
         for c in range(COLUMN_COUNT-3):
             for r in range(ROW_COUNT):
                 if all(self.board[r, c+i] == piece for i in range(4)): return True
