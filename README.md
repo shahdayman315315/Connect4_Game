@@ -101,8 +101,8 @@ python main.py
 
 ## 👥 Contributors
 
-* **Alia Harb** – Backend Developer & AI Design
-* **Shahd Ayman** – Logic & Documentation
+* **Alia Harb** 
+* **Shahd Ayman** 
 
 ---
 
