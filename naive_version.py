@@ -2,7 +2,7 @@ import numpy as np
 import pygame
 import sys
 
-# --- الإعدادات والألوان (نفس كودك بالظبط) ---
+# --- الإعدادات والألوان  ---
 ROW_COUNT = 6
 COLUMN_COUNT = 7
 PLAYER_1 = 0
